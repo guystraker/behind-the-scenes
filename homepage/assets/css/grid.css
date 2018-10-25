@@ -1,0 +1,41 @@
+.self-center {
+  align-self:center;
+}
+
+.self-start{
+  align-self:flex-start;
+}
+
+.self-end {
+  align-self:flex-end;
+}
+
+.align-center {
+  align-items:center;
+}
+
+.align-start {
+  align-items:flex-start;
+}
+
+.align-end {
+  align-items:flex-end;
+}
+
+.w-1of1 {flex:0 0 100%;}
+
+.w-1of2 {flex:0 0 50%;}
+
+.w-1of3 {flex:0 0 33.333%;}
+.w-2of3 {flex:0 0 66.666%;}
+
+.w-1of4{flex:0 0 25%;}
+.w-2of4{flex:0 0 50%;}
+.w-3of4{flex:0 0 75%;}
+
+.w-1of5 {flex:0 0 20%;}
+.w-2of5 {flex:0 0 40%;}
+.w-3of5 {flex:0 0 60%;}
+.w-4of5 {flex:0 0 80%;}
+
+.w-1of12 {flex:0 0 8.3333%;}

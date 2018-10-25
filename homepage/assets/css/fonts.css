@@ -1,0 +1,27 @@
+.fs-lrg {
+  font-size:5.08vw;
+}
+
+.fs-med {
+  font-size:3.25vw;
+}
+
+.fs-sml {
+  font-size:12px;
+}
+
+.tac {
+  text-align: center;
+}
+
+.tar {
+  text-align: right;
+}
+
+.tal {
+  text-align: left;
+}
+
+.bold {
+	font-weight: bold;
+}
